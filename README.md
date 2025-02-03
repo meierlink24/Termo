@@ -1,6 +1,4 @@
-Here's a **README.md** template for your text editor **Termo**. It provides a clear overview of the project, its features, and how to get started with it.
 
-```markdown
 # Termo Text Editor
 
 Termo is a simple, lightweight text editor built in C++ that allows you to create, edit, and save files directly from the terminal. It supports multiple modes including Insert Mode, Command Mode, and Visual Mode, allowing a flexible editing experience. The editor provides functionalities like cursor movement, file handling, and real-time editing.
